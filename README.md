@@ -2,7 +2,8 @@
 
 Lost and Found web application designed for theme parks, schools, airports, hospitals, and all other campuses where
 having a lost and found inventory system is viable. Made with Vuetify and Vue.js
-- [See Live Demo](https://github.com/JohnLFX/LostandFound)
+- [See Live Demo](https://johnlfx.github.io/LostandFound/index.html)
+- *The demo intentionally delays the app to simulate asynchronous loading from an external DB*
 
 The DBMS is designed for how you want to store the data. As of now, you can only store data locally on your device in
 your browser storage. But in the future, it is planned to enable deployment your own on-premise database whether it be
